@@ -1,5 +1,3 @@
-# researchpaper_pokerhands
-Here's a professional and detailed `README.md` for your project:
 
 ---
 
