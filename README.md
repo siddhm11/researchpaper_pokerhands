@@ -2,6 +2,7 @@
 ---
 
 # Poker Hand Classification Using XGBoost
+by ojas 22BDS0082 and siddh 22BDS0404
 
 This project focuses on classifying poker hands based on their card combinations using a machine learning model, specifically XGBoost. The dataset used is encoded into an 85-bit representation to capture card suits and ranks, and the classifier predicts the class of poker hands.
 
@@ -117,3 +118,5 @@ The dataset contains 11 columns:
 - Explore alternative machine learning models for improved accuracy.
 
 ![image](https://github.com/user-attachments/assets/3034aa01-d76b-4270-9728-3c3051ea64e6)
+![image](https://github.com/user-attachments/assets/aec9823d-8087-4536-9b57-01ee8cdaf299)
+
